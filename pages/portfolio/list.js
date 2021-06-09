@@ -4,7 +4,7 @@ const ListPage = () => {
   return (
     <div>
       <h2>A List Page???</h2>
-      <p>Well it's under /about... anything goes there...</p>
+      <p>Well it's under /portfolio/list... anything goes there...</p>
     </div>
   )
 }
